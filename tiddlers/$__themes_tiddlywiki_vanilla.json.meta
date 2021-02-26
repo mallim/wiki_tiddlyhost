@@ -1,0 +1,12 @@
+author: JeremyRuston
+core-version: >=5.0.0
+created: 20210221230601468
+dependents: 
+description: Basic theme
+modified: 20210221230601468
+name: Vanilla
+plugin-priority: 0
+plugin-type: theme
+title: $:/themes/tiddlywiki/vanilla
+type: application/json
+version: 5.1.24-prerelease

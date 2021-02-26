@@ -1,0 +1,10 @@
+created: 20210221230601593
+dependents: 
+description: Markdown parser based on remarkable by Jon Schlinkert
+list: readme usage
+modified: 20210221230601593
+name: Markdown
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/markdown
+type: application/json
+version: 5.1.23

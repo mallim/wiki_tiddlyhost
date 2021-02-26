@@ -1,0 +1,23 @@
+created: 20210226093523528
+modified: 20210226093523528
+status: complete
+title: $:/Import
+type: text/vnd.tiddlywiki
+
+The following tiddlers were imported:
+
+# [[$:/config/AutoSave]]
+# [[$:/config/RelinkOnRename]]
+# [[$:/core]]
+# [[$:/DefaultTiddlers]]
+# [[$:/isEncrypted]]
+# [[$:/SiteTitle]]
+# [[$:/status/RequireReloadDueToPluginChange]]
+# [[$:/theme]]
+# [[$:/UploadURL]]
+# [[$:/UploadWithUrlOnly]]
+# [[JavaLibraries]]
+# [[JavaLibrariesOfInterest]]
+# [[JavaPatternExampleReference]]
+# [[JavascriptResources]]
+# [[MyPublicNotes]]
