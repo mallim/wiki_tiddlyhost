@@ -1,0 +1,1 @@
+* [sq](https://sq.io/) - swiss-army knife for data
