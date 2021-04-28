@@ -10,8 +10,11 @@
 | [Mug](https://github.com/google/mug) | Interesting classes include [Substring](https://github.com/google/mug/wiki/Substring-Explained), [Parallelizer](https://github.com/google/mug/wiki/Parallelizer-Explained), Graph Utilities [Walker](https://google.github.io/mug/apidocs/com/google/mu/util/graph/Walker.html), [ShortestPath](https://google.github.io/mug/apidocs/com/google/mu/util/graph/ShortestPath.html) |
 | [NoException](https://noexception.machinezoo.com/) |  Functional programming for Java exception handlers. | 
 | [OACC](http://oaccframework.org/) | Java Application Security Framework. Very "chim" security framework. |
+| [orika-mapper](https://github.com/orika-mapper/orika) | A Java Bean mapping framework that recursively copies (among other capabilities) data from one object to another. |
 | [REST-assured](https://github.com/rest-assured/rest-assured) | Java DSL for easy testing of REST services |
 | [RuleBook](https://github.com/deliveredtechnologies/rulebook) |  A Simple & Intuitive Rules Abstraction for Java. Based on Lambda expression. |
 | [StreamEx](https://github.com/amaembo/streamex) | Enhancing Java Stream API. Good to take note of this for Java stream related operations. |
 | [ThreeTen-Extra](https://www.threeten.org/threeten-extra/) |  Provides additional date-time classes that complement those in Java SE 8. |
+| [TotallyLazy](https://totallylazy.com/) | TotallyLazy brings functional programming techniques to Java. |
+| [Utterlyidle](https://github.com/bodar/utterlyidle) | Another REST library for Java inspired by the good bits in JSR-311. |
 | [YAVI](https://github.com/making/yavi) | Yet Another Validation API. Lambda based type safe validation for Java. Good alternative to bean validation |
