@@ -7,5 +7,6 @@
 | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more. |
 | [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | Autocomplete filenames. |
 | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier Formatter for Visual Studio Code. | 
+| [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | Follow this tutorial - [Data Science in Visual Studio Code](https://code.visualstudio.com/docs/python/data-science-tutorial) |
 | [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | Visual Studio Code Settings Sync. |
 | [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | Provides AI-assisted development features for Python, TypeScript/JavaScript, and Java developers in Visual Studio Code, |

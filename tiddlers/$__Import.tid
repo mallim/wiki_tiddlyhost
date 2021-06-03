@@ -1,5 +1,5 @@
-created: 20210318125646429
-modified: 20210318125646429
+created: 20210603140834006
+modified: 20210603140834006
 status: complete
 title: $:/Import
 type: text/vnd.tiddlywiki
@@ -14,13 +14,14 @@ The following tiddlers were imported:
 # [[$:/DefaultTiddlers]]
 # [[$:/isEncrypted]]
 # [[$:/palette]]
-# [[$:/plugins/anstosa/tw5-markdown]]
 # [[$:/SiteTitle]]
 # [[$:/status/RequireReloadDueToPluginChange]]
 # [[$:/theme]]
 # [[$:/UploadURL]]
 # [[$:/UploadWithUrlOnly]]
 # [[InterestingTools]]
+# [[JavaIntelliJPlugins]]
+# [[JavaInterestingArticles]]
 # [[JavaLibraries]]
 # [[JavaLibrariesOfInterest]]
 # [[JavaPatternExampleReference]]

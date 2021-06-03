@@ -7,16 +7,19 @@
 | [Axon Framework](https://axoniq.io/product-overview/axon-framework) | One of the best libraries for you to learn DDD, CQRS, Event-Sourcing |
 | [Caffeine](https://github.com/ben-manes/caffeine) | A high performance, near optimal caching library based on Java 8 and a faster replacement of Guava Cache. |
 | [Camunda BPM](https://camunda.com/) | My initial impression is easier to use than Activiti |
+| [Content Services for Spring](https://paulcwarren.github.io/spring-content/) | Cloud-Native Content Management Extensions for Spring. |
 | [cron-utils](https://github.com/jmrozanec/cron-utils) | Define, parse, validate, migrate crons as well as get human readable descriptions for CRON expressions. |
 | [EasyExcel](https://www.yuque.com/easyexcel/doc/easyexcel) | Allows you to import/export Excel with annotations. |
 | [Easy Rules](https://github.com/j-easy/easy-rules) | Simple, stupid rules engine for Java. Do take note that as of December 2020, Easy Rules is in maintenance mode. |
 | [Faker](https://github.com/DiUS/java-faker) |  Helps to generate fake data. |
 | [Guava](https://guava.dev/) | Interesting classes include [Graphs](https://github.com/google/guava/wiki/GraphsExplained), [Multiset, Multimap, Table](https://github.com/google/guava/wiki/NewCollectionTypesExplained). |
 | [Immutables](https://immutables.github.io/) | Immutables generates simple, safe, and consistent value objects (data classes). |
+| [Java JWT](https://github.com/auth0/java-jwt) | A Java implementation of JSON Web Token (JWT) - RFC 7519. |
 | [Kafka](https://kafka.apache.org/) | Alternative to MQ. |
 | [Liquibase](https://www.liquibase.org/) | Use to keep track of database objects. |
 | [Lombok](https://projectlombok.org/) | Aims to start with @Builder(toBuilder=true), @Getter. |
 | [MapStruct](https://mapstruct.org/) | Java bean mapping. take note to use with care with [Lombok](https://projectlombok.org). |
+| [MongoDB Java Server](https://github.com/bwaldvogel/mongo-java-server) | Fake implementation of the core MongoDB server in Java that can be used for integration tests. |
 | [Mybatis](https://mybatis.org/mybatis-3/) | Yes, it can work hand in hand with Spring Data. |
 | [MyBatis Pagination - PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) | Mybatis pagination. |
 | [Native Criteria](https://nativecriteria.przemeknowak.com/) | Ultra lightweight library to generate dynamic SQL based on hibernate session. |

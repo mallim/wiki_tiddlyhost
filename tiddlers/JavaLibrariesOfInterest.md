@@ -3,6 +3,7 @@
 | Name | Description |
 | :--- | :--- |
 | [ability](https://github.com/ksoichiro/ability) | Reference library to build something similar to [CASL](https://casl.js.org/). |
+| [Arthas](https://www.oschina.net/news/141998/arthas-3-5-1-released) | Java Diagnostic tool open sourced by Alibaba |
 | [Hashids](https://hashids.org/java/) | Generate short unique ids from integers. |
 | [Jimfs](https://github.com/google/jimfs) | In-memory file system for Java 7 and above, implementing the java.nio.file abstract file system APIs. |
 | [jOOQ](http://www.jooq.org/) | Cannot use this quite freely due to license constraint. But worth taking note of it. |

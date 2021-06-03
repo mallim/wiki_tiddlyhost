@@ -12,6 +12,8 @@
 * JavaLibraries
 * JavaLibrariesOfInterest
 * JavaPatternExampleReference
+* JavaInterestingArticles
+* JavaIntelliJPlugins
 
 ## Others
 
@@ -21,5 +23,7 @@
 
 ## TW
 
+* [TiddlyWiki Community Links Aggregator](https://links.tiddlywiki.com/)
 * [Good tips on TW](https://giffmex.org/gifts/documenting.tw.html)
 * [TW Icons](https://morosanuae.github.io/tw-icons/)
+* [Grok TiddlyWiki](https://groktiddlywiki.com/read/)

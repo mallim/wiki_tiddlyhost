@@ -18,4 +18,5 @@
 | [How to Build the Next Generation of Forms with React Hooks Forms?](https://morioh.com/p/b8ad848d60bb) | How to Build the Next Generation of Forms with React Hooks Forms |
 | [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data) | How to fetch data in React with Hooks by using the state and effect hooks. |
 | [React Table 7 - Hooks based library](https://thewidlarzgroup.com/react-table-7/) | Tutorial on [react-table](https://github.com/tannerlinsley/react-table) |
+| [Reduce Redux Boilerplate Code with Redux-Actions](https://blog.bitsrc.io/reducing-redux-boilerplate-with-redux-actions-81f9807fed15) | https://blog.bitsrc.io/reducing-redux-boilerplate-with-redux-actions-81f9807fed15 |
 | [ The Unstated React Service Pattern]( https://hmh.engineering/the-unstated-react-service-pattern-786ea6168d1d) | Demonstrates a React Pattern for sharing global state without Prop-Drilling, Redux, MobX, Apollo Link State. |
